@@ -1,0 +1,2 @@
+workspace.members = ["foo"]
+workspace.package.edition = "2021"
