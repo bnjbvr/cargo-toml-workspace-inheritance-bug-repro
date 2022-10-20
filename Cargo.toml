@@ -1,2 +1,2 @@
-workspace.members = ["foo"]
+workspace.members = ["foo", "bug"]
 workspace.package.edition = "2021"
